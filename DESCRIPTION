@@ -1,5 +1,5 @@
 Package: AmpAffyExample
-Version: 1.2.3
+Version: 1.2.4
 Date: 2009-07-22
 Title: Example of Amplified Data
 Author: Rafael A. Irizarry
@@ -7,5 +7,5 @@ Maintainer: Rafael A. Irizarry <rafa@jhu.edu>
 Depends: R (>= 2.4.0), affy (>= 1.23.4)
 Suggests: hgu133acdf
 Description: Six arrays. Three from amplified RNA, three from the typical procedure.
-License: LGPL version 2 or newer
+License: LGPL (>= 2)
 biocViews: ExperimentData
