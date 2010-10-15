@@ -1,5 +1,5 @@
 \name{AmpData}
-\docType{instance}
+\docType{data}
 \alias{AmpData}
 \title{AffyBatch instance with six arrays from amplication experiment}
 \description{
